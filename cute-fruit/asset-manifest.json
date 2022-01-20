@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jhuiice/jhuiice.github.io/cutefruit/static/css/main.da964c46.css",
+    "main.js": "/Jhuiice/jhuiice.github.io/cutefruit/static/js/main.0cc2f27f.js",
+    "static/js/787.bbba6816.chunk.js": "/Jhuiice/jhuiice.github.io/cutefruit/static/js/787.bbba6816.chunk.js",
+    "index.html": "/Jhuiice/jhuiice.github.io/cutefruit/index.html",
+    "main.da964c46.css.map": "/Jhuiice/jhuiice.github.io/cutefruit/static/css/main.da964c46.css.map",
+    "main.0cc2f27f.js.map": "/Jhuiice/jhuiice.github.io/cutefruit/static/js/main.0cc2f27f.js.map",
+    "787.bbba6816.chunk.js.map": "/Jhuiice/jhuiice.github.io/cutefruit/static/js/787.bbba6816.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da964c46.css",
+    "static/js/main.0cc2f27f.js"
+  ]
+}
